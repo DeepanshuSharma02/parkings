@@ -5,15 +5,19 @@ Download:-
 
 2. VS Code
 
-3. Add the parkings folder to htdocs of the XAMPP in the local disk C.
+3. Create a folder with name "parkings" inside the "htdocs" folder in the XAMPP folder in the local disk C.
 
-4. Open PHPMyAdmin (http://localhost/phpmyadmin)
+4. Open Xampp and click on Start button in front of both Apache and Mysql.
 
-5. Create a database with name parking_db
+5. Click on Admin button in front of Apache.
 
-6. Import parking_db.sql file given in database folder
+4. Open PHPMyAdmin (http://localhost/phpmyadmin).
 
-7.Open the parkings folder in the VS code
+5. Create a database with name parking_db.
+
+6. Import parking_db.sql file given in database folder.
+
+7.Open the parkings folder in the VS code.
 
 8.Run the script http:/parkings  (http://localhost/parkings/parkings/login.php)
 
