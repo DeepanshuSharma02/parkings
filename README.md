@@ -19,9 +19,11 @@ Download:-
 
 7.Open the parkings folder in the VS code.
 
-8.Run the script http:/parkings  (http://localhost/parkings/parkings/login.php)
+8.Run the script (http://localhost/parkings/parkings/parkings/login.php)
 
-9.If the above link does not work try (http://localhost/parkings/parkings/parkings/login.php)
+9.Alternative link if the above link does not work http:/parkings  (http://localhost/parkings/parkings/login.php)
+
+
 
 LOGIN DETAILS
 
