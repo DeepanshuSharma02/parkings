@@ -17,6 +17,8 @@ Download:-
 
 8.Run the script http:/parkings  (http://localhost/parkings/parkings/login.php)
 
+9.If the above link does not work try (http://localhost/parkings/parkings/parkings/login.php)
+
 LOGIN DETAILS
 
 Admin
