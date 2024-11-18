@@ -1,5 +1,6 @@
 NSUT Parking Management System
 Download:-
+
 1.XAMPP
 
 2. VS Code
@@ -20,4 +21,5 @@ LOGIN DETAILS
 
 Admin
 user: user
+
 pass: 123
