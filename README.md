@@ -20,6 +20,6 @@ Download:-
 LOGIN DETAILS
 
 Admin
-user: admin
+username : admin
 
-pass: admin123
+password : admin123
